@@ -67,8 +67,10 @@ A Power BI dashboard on top of this database: access by province and town, queue
 
 ## How this was built
 
-The scenario and the course material come from the ALX Data Analytics program. I completed all four parts myself during the course. I used Claude (Anthropic's AI assistant) to comment and organize the code for the four parts.
+The scenario and the course material come from the ALX Data Analytics program.
+All code and analysis are mine.
+Claude (Anthropic's AI assistant) was used to comment and organize the insights the code for the four parts.
 
 ## Author
 
-Abdel Benlahiani, Casablanca. Quality and operations professional moving into data analytics.
+Abdelilah Benlahiani, Casablanca. Quality and operations professional moving into data analytics.
